@@ -1,0 +1,50 @@
+{
+  "basics":{
+    "name":"vegi gayathri",
+    "email":"vegigayathri3@gmail.com",
+    "mobile":"7095745528"
+  },
+  "career" :{
+    "info" :
+    "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
+  "education":[
+    {
+      "degree": "B.Tech(C.S.E)",
+      "institue":"Avanthi",
+      "data":["2015-19","73%"]
+    },
+    {
+      "degree": "Intermediate(M.P.C)",
+      "institue":"Narayana junior college",
+      "data":["2013-15","87%"]
+    },
+    {
+      "degree": "S.S.C",
+      "institue":"Don bos cos english medium school",
+      "data":["2012-13","83%"]
+    }
+  ],
+  "skill":[
+    {
+  "title":"programming languages",
+  "info":["C","C++","Java","python","R"]
+},
+{
+  "title":"Web technologies",
+  "info":["HTML5","CSS3","Javascript"]
+},
+{
+  "title":"Databases",
+  "info":["mysql","oracle"]
+},
+{
+  "title":"Libraries and Frameworks",
+  "info":["Ionics","Angular","expressJs",".Net"]
+},
+{
+  "title":"Operationg Systems",
+  "info":["Linux","Windows","Dos"]
+}
+]
+}
